@@ -1,2 +1,2 @@
 # climate-change-api
-Climate change news API
+An API showing all the latest Climate Change News around the world
